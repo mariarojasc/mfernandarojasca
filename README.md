@@ -33,7 +33,6 @@
 <h3 align="center">You can find me on:</h3>
 
 <p align="center">
-<a href="https://twitter.com/mariafrojas13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mariafrojas13" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/mfernandarojasca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mfernandarojasca" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/mfernandarojasca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mfernandarojasca" height="30" width="30" /></a>
 <a href="https://www.twitch.tv/mfernandarojasca" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="mfernandarojasca" height="30" width="30" /></a>
