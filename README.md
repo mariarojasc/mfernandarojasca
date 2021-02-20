@@ -9,11 +9,3 @@ This is Maria.
 - 💬 Ask me about Python, AWS or Data Science. 
 - 😄 Pronouns: she/her
 
----
-
-<h3 align="center"> You can find me on
-  
-[<img src="https://simpleicons.org/icons/linkedin.svg" width="25" height="25">][https://www.linkedin.com/in/mfernandarojasca/]
-[<img src="https://simpleicons.org/icons/twitter.svg" width="25" height="25">][https://www.linkedin.com/in/mfernandarojasca/]
-[<img src="https://simpleicons.org/icons/twitch.svg" width="25" height="25">][https://www.twitch.tv/mfernandarojasca]    
-
