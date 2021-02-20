@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there 👋
+### Hi there 👋
 
 
 This is Maria.
